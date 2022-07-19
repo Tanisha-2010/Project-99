@@ -1,0 +1,43 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 450;
+}
+
+h4 {
+    color: red;
+}
+
+#camera {
+    width: 500px;
+    height: 400px;
+    border-color: brown;
+    border-style: solid;
+}
+
+#result1,
+#result2,
+#result3 {
+    border-style: ridge;
+    border-width: 15px;
+    width: 500px;
+    height: 300px;
+}
+
+img {
+    width: 470px;
+    height: 270px;
+}
+
+body {
+    background: linear-gradient(#029196, #03f6ff, #79f8fc, #03f6ff, #029196);
+}
