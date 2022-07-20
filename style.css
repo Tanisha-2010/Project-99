@@ -41,3 +41,9 @@ img {
 body {
     background: linear-gradient(#029196, #03f6ff, #79f8fc, #03f6ff, #029196);
 }
+
+img :hover {
+    border-radius: 100px;
+    width: 490px;
+    height: 290px;
+}
